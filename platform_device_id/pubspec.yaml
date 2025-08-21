@@ -24,9 +24,9 @@ dev_dependencies:
 flutter:
   plugin:
     platforms:
-      android:
-        package: com.di1shuai.platform_device_id
-        pluginClass: PlatformDeviceIdPlugin
+      # android:
+      #   package: com.di1shuai.platform_device_id
+      #   pluginClass: PlatformDeviceIdPlugin
       ios:
         pluginClass: PlatformDeviceIdPlugin
       # macos:
